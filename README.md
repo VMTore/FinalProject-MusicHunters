@@ -1,4 +1,7 @@
-# WebApp boilerplate with React JS and Flask API
+![MH1](https://github.com/user-attachments/assets/b0af342f-3ac3-499e-900c-b0504411ef50)
+![MH2](https://github.com/user-attachments/assets/acff0a0e-88f0-4a8b-9cef-1deb248e5326)
+![MH3](https://github.com/user-attachments/assets/040481e2-a0dc-49e1-8794-cce59a563b68)
+# MUSIC HUNTERS
 
 Build web applications using React.js for the front end and python/flask for your backend API.
 
